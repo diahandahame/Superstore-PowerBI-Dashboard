@@ -80,7 +80,7 @@ The objective is to provide decision-makers with a **clear, actionable view** of
 - Area Chart Sales vs Profit by Discount Group
 - Filter by Category
 
-![Discount Impact](assets/discount_impact.jpj)
+![Discount Impact](discount_impact.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ The objective is to provide decision-makers with a **clear, actionable view** of
 - Monthly Profit Margin trends
 - Filter by Year, Region and Category
 
-![Time Trends](assets/time_trends.jpg)
+![Time Trends](time_trends.jpg)
 
 ---
 
