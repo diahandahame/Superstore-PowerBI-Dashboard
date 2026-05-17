@@ -56,7 +56,7 @@ The objective is to provide decision-makers with a **clear, actionable view** of
 - Regional performance summary table
 - Filter by Region
 
-![Regional Analysis](assets/regional_analysis.jpg)
+![Regional Analysis](regional_analysis.jpg)
 
 ---
 
