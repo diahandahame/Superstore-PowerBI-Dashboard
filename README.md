@@ -68,7 +68,7 @@ The objective is to provide decision-makers with a **clear, actionable view** of
 - Scatter Plot Sales vs Profit
 - Filter by Category
 
-![Category Analysis](assets/category_analysis.jpj)
+![Category Analysis](category_analysis.jpg)
 
 ---
 
