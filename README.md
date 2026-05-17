@@ -44,7 +44,7 @@ The objective is to provide decision-makers with a **clear, actionable view** of
 - Sales and Profit by Region
 - Sales by Category
 
-![Overview](assets/overview.jpg)
+![Overview](overview.jpg)
 
 ---
 
